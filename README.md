@@ -1,4 +1,6 @@
-This repository includes the replication code for the paper titled "Ambivalent, Biological, and Cultural Racism and the Legitimation of Inequality: Original Cross-National Survey Evidence from the United States and The Netherlands".
+This repository includes the replication code for the follwoing paper:
+
+Wang, L., & Mijs, J. (2026). Ambivalent, biological, and cultural racism and the legitimation of inequality: Original cross-national survey evidence from the United States and The Netherlands. International Sociology, 1–31. https://doi.org/10.1177/02685809261458580
 
 The replication code for reproducing Figure 6 "Visualization of the demographic profiles of blatant and ambivalent biological and cultural racism in the U.S. and the Netherlands" is included in the R file titled "Figure 6 radar plot replication code". The replication code for constructing key variables and all other analyses are included in the STATA do file titled "Racism paper full replication code".
 
